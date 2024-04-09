@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 def validUTF8(data):
     # Number of bytes remaining for a multibyte character
     remaining_bytes = 0
